@@ -16,6 +16,7 @@ public class mergeTwoArray {
         // Copy arr2
         for (int i = 0; i < arr2.length; i++) {
             merged[arr1.length + i] = arr2[i];
+            
         }
 
         // Print merged array

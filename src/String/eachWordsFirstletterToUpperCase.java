@@ -14,5 +14,4 @@ public class eachWordsFirstletterToUpperCase {
 		}
 		System.out.println(firstLeterCap);
 	}
-
 }

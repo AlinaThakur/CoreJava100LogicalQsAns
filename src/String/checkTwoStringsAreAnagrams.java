@@ -9,8 +9,8 @@ public class checkTwoStringsAreAnagrams {
 		String s1="vile";
 		String s2="evil";
 		
-		s1.replaceAll(" ", "").toLowerCase();
-		s2.replaceAll(" ", "").toLowerCase();
+		s1=s1.replaceAll(" ", "").toLowerCase();
+		s2=s2.replaceAll(" ", "").toLowerCase();
 		
 		if(s1.length()!=s2.length()) {
 			System.out.println("Not Anagrams");

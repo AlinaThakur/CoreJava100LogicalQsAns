@@ -17,7 +17,6 @@ public class checkArmstrong {
 			System.out.println(temp+" is an Armstrong");
 		}else {
 			System.out.println(temp+" is not an Armstrong");
-
 		}
 		
 	}

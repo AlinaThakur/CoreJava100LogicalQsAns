@@ -19,8 +19,6 @@ public class findCommonEle {
 		int[] a2= {4,5,6,7,8};
 		System.out.println("Common Elements");
 		commonEle(a1, a2);
-	
-	
 	}
 
 }

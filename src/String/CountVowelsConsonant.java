@@ -5,7 +5,7 @@ public class CountVowelsConsonant {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String s="Programming Language";
-		s.toLowerCase();
+		s=s.toLowerCase();
 		int countVowels=0;
 		int countConsonants=0;
 		for(int i=0;i<s.length();i++) {
@@ -22,5 +22,4 @@ public class CountVowelsConsonant {
 		System.out.println("Count consonants in a String: "+countConsonants);
 
 	}
-
 }

@@ -15,5 +15,4 @@ public class reverseEachCharacter {
 		}
 		System.out.println(reverseStr);
 	}
-
 }

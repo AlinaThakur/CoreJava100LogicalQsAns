@@ -20,5 +20,4 @@ public class countOccurenceOfEachWord {
 			System.out.println(splitStr[i]+" : "+count);
 		}
 	}
-
 }
